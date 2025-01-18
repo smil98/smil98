@@ -44,7 +44,7 @@
   
 |기간|활동|기록|
 |:-:|:-:|:-:|
-| 2023.07 ~ 2024.02 | (디지털 컨버전스) 디지털기술 융합 자바(JAVA) 응용SW 개발자 양성과정 | ![기록](https://iron-prepared-cfd.notion.site/K-Digital-Trainning-Progress-Journal-491466a6a63f426094b69ac587c25873?pvs=4)|
+| 2023.07 ~ 2024.02 | (디지털 컨버전스) 디지털기술 융합 자바(JAVA) 응용SW 개발자 양성과정 | [기록](https://iron-prepared-cfd.notion.site/K-Digital-Trainning-Progress-Journal-491466a6a63f426094b69ac587c25873?pvs=4)|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smil98&layout=compact)
 
