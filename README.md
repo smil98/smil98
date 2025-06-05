@@ -7,7 +7,6 @@
 #### FULL STACK DEVELOPER
 [![자기소개_KR](https://img.shields.io/badge/자기소개_KR-000000?style=badge&logo=notion&logoColor=white)](https://google.com)
 [![AboutMe_ENG](https://img.shields.io/badge/AboutMe_ENG-000000?style=badge&logo=notion&logoColor=white)](https://google.com)
-[![smileez.log](https://img.shields.io/badge/smileez.log-3DDC84?style=badge&logo=Velog&logoColor=white)](https://velog.io/@smileez/posts)
 
 </div>
 
@@ -45,6 +44,7 @@
 |기간|활동|기록|
 |:-:|:-:|:-:|
 | 2023.07 ~ 2024.02 | (디지털 컨버전스) 디지털기술 융합 자바(JAVA) 응용SW 개발자 양성과정 | [기록](https://iron-prepared-cfd.notion.site/K-Digital-Trainning-Progress-Journal-491466a6a63f426094b69ac587c25873?pvs=4)|
+|2025.05 ~ 2025.06 | Google Cybersecurity | 수료 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smil98&layout=compact)
 
