@@ -4,7 +4,7 @@
 <div align="center">
   
 ### 🌐 smil98
-#### FULL STACK DEVELOPER
+#### FULL STACK DEVELOPER & CyberSecurity
 [![자기소개_KR](https://img.shields.io/badge/자기소개_KR-000000?style=badge&logo=notion&logoColor=white)](https://google.com)
 [![AboutMe_ENG](https://img.shields.io/badge/AboutMe_ENG-000000?style=badge&logo=notion&logoColor=white)](https://google.com)
 
@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux]("https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black") 
+![Docker]("https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white")
 
 <!-- 그 외 -->
 <details>
