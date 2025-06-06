@@ -16,6 +16,8 @@
 
 게임 커뮤니티 및 전자기기 구매 페이지 [lolland](https://github.com/smil98/lolland-front)  - 기획 및 개발 <sub>(2024.01 ~ 24.02)</sub>
 
+경량 보안 로그 모니터링 시스템 [SecureLog Watcher](https://github.com/smil98/securelog-watcher) - 기획 및 개발 <sub>(2025.6 ~ )</sub>
+
 <!-- 기술 -->
 #### 📚 STACKS
 
@@ -34,6 +36,7 @@
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux]("https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black") 
 
 <!-- 그 외 -->
 <details>
